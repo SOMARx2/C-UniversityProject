@@ -1,0 +1,12 @@
+00:00 logining
+00:17 manual command
+00:24 time handling
+00:40 add password command
+01:29 search command
+01:56 sorting passwords command
+02:29 select command
+02:50 edit password command
+03:25 delete password command
+03:43 add category command
+03:55 print category command
+04:02 delete category command
